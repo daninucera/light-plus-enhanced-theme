@@ -1,0 +1,25 @@
+{
+  "name": "light-plus-enhanced",
+  "displayName": "Light+ enhanced",
+  "description": "VSCode Light+ theme with some color corrections ",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light+ enhanced",
+        "uiTheme": "vs",
+        "path": "./themes/Light+ enhanced-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+   
+  },
+  "publisher": "DanieleNucera"
+}
